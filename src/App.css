@@ -1,0 +1,187 @@
+@import "tailwindcss";
+
+body{
+  background-color: bisque;
+  color: #FFFFFF;
+}
+.navbar{
+    background-color: rgb(119, 34, 51);
+}
+.nav-bar{
+   /* font-family: 'Borel', cursive; */
+   font-family: 'Dancing Script', cursive;
+   font-weight: bold;
+   font-size: 30px;
+   position: fixed;
+}
+.search{
+    border-radius: 30px;
+}
+.hero{
+  font-family: 'Dancing Script', cursive;
+  font-size: 46px;
+  color: black;
+}
+.he-ro{
+  font-family: 'Dancing Script', cursive;
+  font-size: 46px;
+  color: black;
+}
+.girl{
+  width: 430px;
+  height: 430px;
+  border-radius: 30px;
+}
+.girl:hover{
+  box-shadow: 0 5px 5px rgb(119, 34, 51);
+}
+.btn1{
+  border-radius: 30px;
+  background-color: rgb(119, 34, 51);
+  color: #FFFFFF;
+  padding: 10px 25px;
+}
+.btn1:hover{
+  color: black;
+  border: 1px solid black;
+  background-color: bisque;
+  cursor: pointer;
+}
+.p1{
+  color: rgb(102, 93, 93);
+}
+.img-hero{
+  background-color: bisque;
+}
+.service{
+  text-align: center;
+  font-size: 50px;
+}
+.link1{
+  color: rgb(119, 34, 51);
+}
+.cards{
+  border: 1px solid rgb(119, 34, 51);
+  box-shadow: 0 5px 6px rgb(119, 34, 51);
+}
+.cards:hover{
+  cursor: pointer;
+}
+.about-img{
+  width: 480px;
+  height: 480px;
+}
+.aboutbridal{
+  border-radius: 30px;
+}
+.btn2{
+  background-color: rgb(119, 34, 51);
+  border-radius: 30px;
+}
+.btn2:hover{
+  color: black;
+  border: 1px solid black;
+  background-color: bisque;
+  cursor: pointer;
+}
+.shop-category {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.shop-category h2 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.category-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.category-item {
+  text-align: center;
+}
+
+.category-item img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.category-item img:hover {
+  transform: scale(1.05);
+}
+
+.category-item p {
+  margin-top: 10px;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.hair{
+  background-color: rgb(119, 34, 51);
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+.hair-card:hover{
+  box-shadow: 0 5px 6px rgb(119, 34, 51);
+  border-radius: 20px;
+}
+.gal{
+  border-radius: 20px;
+}
+.facial{
+  border-radius: 20px;
+}
+.skin{
+  background-color: rgb(119, 34, 51);
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+.care:hover{
+  box-shadow: 0 3px 7px rgb(119, 34, 51);
+  border-radius: 20px;
+}
+.testimonial{
+  background-color: rgb(119, 34, 51);
+  color: #FFFFFF;
+}
+.makeup{
+  background-color: rgb(119, 34, 51);
+  padding: 10px;
+}
+.btn3{
+  background-color: rgb(119, 34, 51);
+  border-radius: 30px;
+}
+.btn3:hover{
+  color: black;
+  border: 1px solid black;
+  background-color: bisque;
+  cursor: pointer;
+}
+.out-line:focus{
+  border: 1px solid rgb(119, 34, 51);
+}
+.text{
+  color: rgb(119, 34, 51);
+}
+.icon:hover{
+  color: rgb(119, 34, 51);
+}
+.footer{
+  background-color: rgb(119, 34, 51);
+}
+.footer-font{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  cursor: pointer;
+}
