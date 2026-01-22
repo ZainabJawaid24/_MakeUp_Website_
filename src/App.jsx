@@ -5,7 +5,7 @@ import engagement from './assets/engagement.jpeg';
 import hdluxury from './assets/hdluxury.jpeg';
 import course from './assets/makeupcourse.jpeg';
 import party from './assets/party.jpeg';
-import photo from './assets/Photoshoot.jpeg';
+import photo from './assets/photoshoot.jpeg';
 import about from './assets/about.bridal.jpeg';
 import lipstick from './assets/lipstick.jpeg';
 import mascara from './assets/mascara.jpeg';
