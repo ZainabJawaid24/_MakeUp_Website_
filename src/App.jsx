@@ -389,8 +389,8 @@ function Makeup() {
         </div>
       </section>
 
-      {/* shops section */}
-     <section id='makeup' class="shop-category makeup">
+      {/* makeup section */}
+     <section id="makeup" className="shop-category makeup">
   <h2 className='text-white'>Make Up</h2>
 
   <div className="category-container">
