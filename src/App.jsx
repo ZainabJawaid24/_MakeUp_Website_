@@ -390,7 +390,7 @@ function Makeup() {
       </section>
 
       {/* shops section */}
-     <section class="shop-category makeup">
+     <section id='makeup' class="shop-category makeup">
   <h2 className='text-white'>Make Up</h2>
 
   <div className="category-container">
