@@ -650,7 +650,7 @@ function Makeup() {
               </svg>
             </a>
           </span>
-        </div>,
+        </div>
       </footer>
     </>
   )
